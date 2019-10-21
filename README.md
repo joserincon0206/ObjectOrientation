@@ -1,5 +1,5 @@
 # ObjectOrientation
-This is a video of an algorithm that effectively detects the orientation of an object using its principal components and center of mass. Please open the gif file to see it working. 
+This is a video of an algorithm that effectively detects the orientation of an object (location of the tip and center of mass) using its principal components and center of mass. Please open the gif file to see it working. 
 
 The main assumptions of the algorithm: 
 
